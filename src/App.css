@@ -1,0 +1,26 @@
+.logo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: medium;
+}
+.sign{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.checkbox{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: smaller;
+}
+#formBasicEmail{
+  font-size: small;
+}
+#formBasicPassword{
+font-size: small;
+}
+.button{
+  font-size: small;
+}
